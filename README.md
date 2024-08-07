@@ -1,4 +1,4 @@
-# Fraud Detection System Project
+# Fraud Detection System
 This project tackles the critical challenge of identifying and preventing fraudulent activities within financial transactions or systems. By leveraging the power of advanced analytics and machine learning techniques, we aim to develop a robust fraud detection system capable of distinguishing legitimate user behavior from fraudulent attempts. 
 
 # Dataset
